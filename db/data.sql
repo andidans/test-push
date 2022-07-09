@@ -1,2 +1,2 @@
 
-SELECT * FROM data
+SELECT * FROM data where id = "1"
